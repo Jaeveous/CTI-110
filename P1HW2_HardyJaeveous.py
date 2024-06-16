@@ -1,0 +1,25 @@
+#Jaeveous Hardy
+#June 15, 2024
+#P1HW2
+#Calculating and displaying travel expenses
+print('This program calculates and displays travel expenses')
+print()
+print('Enter Budget:', end=' ')
+budget = int(input())
+print('Enter your travel destination:', end=' ')
+destination = input()
+print('How much do you think you will spend on gas?', end=' ')
+gas = int(input())
+print('Approximately, how much will need for accomodation/hotel?', end=' ')
+hotel = int(input())
+print('Last, how much do you need for food?', end=' ')
+food = int(input())
+print()
+print('------------Travel expenses------------')
+print('Location:', destination)
+print('Initial Budget:', budget)
+print()
+print('Fuel:', gas)
+print('Accomodation:', hotel)
+print('Food:', food)
+print('Remaining Balance:', budget-gas-hotel-food)
