@@ -1,2 +1,5 @@
 # CTI-110
-All of our Python files for CTI-110 Introduction to Programming
+CTI 110 Repository
+Created for P1LAB1
+Hardy
+June 15, 2024
