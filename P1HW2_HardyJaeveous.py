@@ -1,6 +1,6 @@
 #Jaeveous Hardy
 #June 15, 2024
-#P1HW
+#P1HW2
 #Calculating and displaying travel expenses
 print('This program calculates and displays travel expenses')
 print()
